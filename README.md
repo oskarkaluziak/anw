@@ -2,11 +2,9 @@
 
 This program implements the Needleman-Wunsch algorithm for global sequence alignment in Python. It reads two sequences from a FASTA file, aligns them, and saves the result into a file.
 
-
 **Requirements**
 
 Python 3.x
-
 
 **Usage**
 
@@ -17,7 +15,6 @@ CCCGCTTTT
 >seq 2
 GTTCGGG
 
-
 **Run the script:**
 
 python needleman_wunsch.py sequences.fasta
@@ -26,9 +23,7 @@ python needleman_wunsch.py sequences.fasta
 
 python3 needleman_wunsch.py sequences.fasta
 
-
 The aligned sequences and score will be saved in score.txt.
-
 
 **Output**
 
@@ -39,5 +34,3 @@ CCCGCTTTT
 -GTTC-GGG
 
 score: -9
-
-
