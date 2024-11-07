@@ -1,0 +1,5 @@
+align seq's:
+CCCGCTTTT
+-GTTC-GGG
+
+score: -9
